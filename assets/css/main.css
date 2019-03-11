@@ -1,0 +1,16 @@
+.main{
+    max-width: 1024px;
+    height: auto;
+    margin: 0 auto;
+    
+    
+}
+.photo{
+    height: 250px;
+    width: 300px;
+    margin: 7px 7px 7px 7px;
+    float:left;
+}
+.main>h1{
+    text-align: center;
+}
